@@ -1,0 +1,46 @@
+
+ h1{
+   
+    text-align: center;
+ }
+ h2{
+    
+    text-align: center;
+ }
+ p{
+    
+    text-align: center; 
+ }
+ li{
+     display: inline;
+     cursor: pointer;
+     padding: 0.5rem;
+ }
+ ul{
+    list-style-type: none; 
+     text-align: center;
+      margin: 0;    
+     padding: 0;
+ }
+ 
+ .center{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ footer{
+     text-align: center;
+     bottom: 4;
+     position: fixed;
+     width: 1800;
+     height: 30;
+     background-color: blue;
+ }
+ nav{
+     font-size: 2rem;
+     background-color: #F1F1F1;
+ }
+  ul li :hover{
+      background-color: #555;
+      color: #f1f1;
+  }
